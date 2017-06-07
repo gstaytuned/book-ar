@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable/close_button_background.xml",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable/close_button_background.xml"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable/rating_bar_full.xml",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable/rating_bar_full.xml"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable/scanline.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable/scanline.png"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable/vuforia_splash.png"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable/logo.png"
+    }
+]

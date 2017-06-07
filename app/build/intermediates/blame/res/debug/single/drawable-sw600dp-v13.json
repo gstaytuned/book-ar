@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable-sw600dp-v13/button_close_normal.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable-sw600dp/button_close_normal.png"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable-sw600dp-v13/button_close_pressed.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable-sw600dp/button_close_pressed.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/ger/Downloads/Books-6-2-10/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/badge_background.png",
+        "source": "/Users/ger/Downloads/Books-6-2-10/app/src/main/res/drawable-xxhdpi/badge_background.png"
+    }
+]
